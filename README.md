@@ -17,6 +17,6 @@ sagorsarker/bangla-bert-base # For Benglai
 google/flan-t5-base #For English
 mistralai/Mistral-7B-v0.1 #For English
 ```
-For fine-tune Mistral has been used <a href="https://github.com/unslothai/unsloth">Unsloth</a> for faster training.
+To fine-tune Mistral has used <a href="https://github.com/unslothai/unsloth">Unsloth</a> for faster training.
 
 # #ML #GENAI #LLM #BERT #DL #CV #NLP #PROMPT #MB
